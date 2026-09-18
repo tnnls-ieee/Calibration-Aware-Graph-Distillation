@@ -120,7 +120,7 @@ Teacher GNN
 
 ---
 
-The interactive plots can be viewed [here].
+The interactive plots can be viewed [here](https://tnnls-ieee.github.io/Calibration-Aware-Graph-Distillation).
 
 ---
 
